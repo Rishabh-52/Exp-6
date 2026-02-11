@@ -1,11 +1,14 @@
 Experiment 6: Python program to understand the basics of conditional statements 
+
 Aim:To understand the basics of conditional statements in python 
+
 Theory:
   if statement is the starting point and the simplest form of a conditional. It executes its code block only if its condition is True. 
 
   elif allows you to check multiple conditions sequentially if the preceding if or elif conditions were all False.
 
   else statement is a "catch-all" or fallback option that executes its code block if none of the preceding if or elif conditions are True. An else block does not take a condition. 
+  
 Algorithm:
 
 I-->Algorithm to Check if a Number is Positive, Negative, or ZeroStartInput: 
