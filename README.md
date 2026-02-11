@@ -9,6 +9,7 @@ Theory:
 Algorithm:
 
 I-->Algorithm to Check if a Number is Positive, Negative, or ZeroStartInput: 
+
 1)Ask the user to "Enter the value of x" and store it in integer variable x.
 
 2)Check 1: If x is greater than 0 ($x > 0$):Output: Print "number is positive".
@@ -21,6 +22,7 @@ I-->Algorithm to Check if a Number is Positive, Negative, or ZeroStartInput:
 
 
 II-->Algorithm to Check if a Number is Even or Odd:
+
 1)Start
 
 2)Input: Ask the user to "Enter the value of x" and store it in integer variable x.
@@ -41,6 +43,7 @@ II-->Algorithm to Check if a Number is Even or Odd:
 
 
 III-->Algorithm to Identify the Greatest of Three Numbers
+
 1)Start
 
 2)Input: Read three integer values into variables a, b, and c.
@@ -62,6 +65,7 @@ III-->Algorithm to Identify the Greatest of Three Numbers
 
 
 IV-->Algorithm to Print Grade (Single Subject)
+
 1)Start
 
 2)Input: Read the marks for one subject into variable sub1.
@@ -91,6 +95,7 @@ IV-->Algorithm to Print Grade (Single Subject)
 
 
 V-->Algorithm to Calculate Average and Overall Grade
+
 1)Start
 
 2)Input: Read marks for three subjects into variables sub1, sub2, and sub3.
@@ -110,6 +115,7 @@ Else: Print "f grade".
 
 
 VI-->Algorithm to Check for Leap Year
+
 1)Start
 
 2)Input: Read the year to be checked into integer variable year.
@@ -133,6 +139,7 @@ Print "tHE YEAR IS NOT A LEAP YEAR".
 
 
 VII -->Algorithm to Check Date Validity and Increment Date
+
 1)Start
 
 2)Input: Read a date string (e.g., "10/12/2007"), split it by '/', and convert parts to integers dd, mm, yy.
@@ -178,6 +185,7 @@ If dd < 1 OR dd > max1: Print "Date is invalid".
 
 
 VIII-->Algorithm to Check if a Character is a Vowel
+
 1)Start
 
 2)Input: Read a character from the user into variable ch.
@@ -197,6 +205,7 @@ VIII-->Algorithm to Check if a Character is a Vowel
 
 
 IX-->Algorithm to Calculate Salary with Allowances
+
 1)Start
 
 2)Initialize: Set HRA = 0 and DA = 0.
@@ -223,6 +232,7 @@ IX-->Algorithm to Calculate Salary with Allowances
 
 
 X-->Algorithm to Calculate Income Tax
+
 1)Start
 
 2)Input: Read annual income into variable income.
