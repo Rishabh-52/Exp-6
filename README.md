@@ -1,17 +1,17 @@
-Experiment 6: Python program to understand the basics of conditional statements 
+E̳x̳p̳e̳r̳i̳m̳e̳n̳t̳ ̳6̳: Python program to understand the basics of conditional statements 
 
-Aim:To understand the basics of conditional statements in python 
+A̳i̳m̳:To understand the basics of conditional statements in python 
 
-Theory:
+T̳h̳e̳o̳r̳y̳:
   if statement is the starting point and the simplest form of a conditional. It executes its code block only if its condition is True. 
 
   elif allows you to check multiple conditions sequentially if the preceding if or elif conditions were all False.
 
   else statement is a "catch-all" or fallback option that executes its code block if none of the preceding if or elif conditions are True. An else block does not take a condition. 
   
-Algorithm:
+A̳l̳g̳o̳r̳i̳t̳h̳m̳:̳
 
-I-->Algorithm to Check if a Number is Positive, Negative, or ZeroStartInput: 
+I-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲i̲f̲ ̲a̲ ̲N̲u̲m̲b̲e̲r̲ ̲i̲s̲ ̲P̲o̲s̲i̲t̲i̲v̲e̲,̲ ̲N̲e̲g̲a̲t̲i̲v̲e̲,̲ ̲o̲r̲ ̲Z̲e̲r̲o̲S̲t̲a̲r̲t̲I̲n̲p̲u̲t̲:̲ 
 
 1)Ask the user to "Enter the value of x" and store it in integer variable x.
 
@@ -24,7 +24,7 @@ I-->Algorithm to Check if a Number is Positive, Negative, or ZeroStartInput:
 5)Stop
 
 
-II-->Algorithm to Check if a Number is Even or Odd:
+II-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲i̲f̲ ̲a̲ ̲N̲u̲m̲b̲e̲r̲ ̲i̲s̲ ̲E̲v̲e̲n̲ ̲o̲r̲ ̲O̲d̲d̲:̲
 
 1)Start
 
@@ -45,7 +45,7 @@ II-->Algorithm to Check if a Number is Even or Odd:
 
 
 
-III-->Algorithm to Identify the Greatest of Three Numbers
+III-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲I̲d̲e̲n̲t̲i̲f̲y̲ ̲t̲h̲e̲ ̲G̲r̲e̲a̲t̲e̲s̲t̲ ̲o̲f̲ ̲T̲h̲r̲e̲e̲ ̲N̲u̲m̲b̲e̲r̲s̲
 
 1)Start
 
@@ -67,7 +67,7 @@ III-->Algorithm to Identify the Greatest of Three Numbers
 
 
 
-IV-->Algorithm to Print Grade (Single Subject)
+IV-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲P̲r̲i̲n̲t̲ ̲G̲r̲a̲d̲e̲ ̲(̲S̲i̲n̲g̲l̲e̲ ̲S̲u̲b̲j̲e̲c̲t̲)̲
 
 1)Start
 
@@ -97,7 +97,7 @@ IV-->Algorithm to Print Grade (Single Subject)
 
 
 
-V-->Algorithm to Calculate Average and Overall Grade
+V-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲a̲l̲c̲u̲l̲a̲t̲e̲ ̲A̲v̲e̲r̲a̲g̲e̲ ̲a̲n̲d̲ ̲O̲v̲e̲r̲a̲l̲l̲ ̲G̲r̲a̲d̲e̲
 
 1)Start
 
@@ -117,7 +117,7 @@ Else: Print "f grade".
 
 
 
-VI-->Algorithm to Check for Leap Year
+VI-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲f̲o̲r̲ ̲L̲e̲a̲p̲ ̲Y̲e̲a̲r̲
 
 1)Start
 
@@ -141,7 +141,7 @@ Print "tHE YEAR IS NOT A LEAP YEAR".
 
 
 
-VII -->Algorithm to Check Date Validity and Increment Date
+VII -->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲D̲a̲t̲e̲ ̲V̲a̲l̲i̲d̲i̲t̲y̲ ̲a̲n̲d̲ ̲I̲n̲c̲r̲e̲m̲e̲n̲t̲ ̲D̲a̲t̲e̲
 
 1)Start
 
@@ -187,7 +187,7 @@ If dd < 1 OR dd > max1: Print "Date is invalid".
 
 
 
-VIII-->Algorithm to Check if a Character is a Vowel
+VIII-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲i̲f̲ ̲a̲ ̲C̲h̲a̲r̲a̲c̲t̲e̲r̲ ̲i̲s̲ ̲a̲ ̲V̲o̲w̲e̲l̲
 
 1)Start
 
@@ -207,7 +207,7 @@ VIII-->Algorithm to Check if a Character is a Vowel
 
 
 
-IX-->Algorithm to Calculate Salary with Allowances
+IX-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲a̲l̲c̲u̲l̲a̲t̲e̲ ̲S̲a̲l̲a̲r̲y̲ ̲w̲i̲t̲h̲ ̲A̲l̲l̲o̲w̲a̲n̲c̲e̲s̲
 
 1)Start
 
@@ -234,7 +234,7 @@ IX-->Algorithm to Calculate Salary with Allowances
 
 
 
-X-->Algorithm to Calculate Income Tax
+X-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲a̲l̲c̲u̲l̲a̲t̲e̲ ̲I̲n̲c̲o̲m̲e̲ ̲T̲a̲x̲
 
 1)Start
 
@@ -251,4 +251,4 @@ X-->Algorithm to Calculate Income Tax
 5)Stop
 
 
-Conclusion:With this one can understand The fundamentals of conditional loop in python
+C̳o̳n̳c̳l̳u̳s̳i̳o̳n̳:With this one can understand The fundamentals of conditional loop in python
