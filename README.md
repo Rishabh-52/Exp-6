@@ -1,15 +1,15 @@
 E̳x̳p̳e̳r̳i̳m̳e̳n̳t̳ ̳6̳: Python program to understand the basics of conditional statements 
 
-A̳i̳m̳:To understand the basics of conditional statements in python 
+# A̳i̳m̳:To understand the basics of conditional statements in python 
 
-T̳h̳e̳o̳r̳y̳:
+# T̳h̳e̳o̳r̳y̳:
   if statement is the starting point and the simplest form of a conditional. It executes its code block only if its condition is True. 
 
   elif allows you to check multiple conditions sequentially if the preceding if or elif conditions were all False.
 
   else statement is a "catch-all" or fallback option that executes its code block if none of the preceding if or elif conditions are True. An else block does not take a condition. 
   
-A̳l̳g̳o̳r̳i̳t̳h̳m̳:̳
+# A̳l̳g̳o̳r̳i̳t̳h̳m̳:̳
 
 I-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲h̲e̲c̲k̲ ̲i̲f̲ ̲a̲ ̲N̲u̲m̲b̲e̲r̲ ̲i̲s̲ ̲P̲o̲s̲i̲t̲i̲v̲e̲,̲ ̲N̲e̲g̲a̲t̲i̲v̲e̲,̲ ̲o̲r̲ ̲Z̲e̲r̲o̲S̲t̲a̲r̲t̲I̲n̲p̲u̲t̲:̲ 
 
@@ -251,4 +251,4 @@ X-->A̲l̲g̲o̲r̲i̲t̲h̲m̲ ̲t̲o̲ ̲C̲a̲l̲c̲u̲l̲a̲t̲e̲ ̲I̲n̲c
 5)Stop
 
 
-C̳o̳n̳c̳l̳u̳s̳i̳o̳n̳:With this one can understand The fundamentals of conditional loop in python
+# C̳o̳n̳c̳l̳u̳s̳i̳o̳n̳:With this one can understand The fundamentals of conditional loop in python
